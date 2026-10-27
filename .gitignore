@@ -1,0 +1,30 @@
+﻿# Build outputs
+build/
+out/
+x64/
+x86/
+Debug/
+Release/
+cmake-build-*/
+
+# Visual Studio local settings
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+
+# Scan data
+*.tif
+*.tiff
+
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
